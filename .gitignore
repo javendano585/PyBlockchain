@@ -1,5 +1,6 @@
 # Local files related to Udemy course
 Course/
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
